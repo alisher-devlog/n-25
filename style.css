@@ -44,3 +44,39 @@
 .itemsSecond a{
     color: white;
 }
+.welcome{
+    color: #23A6F0;
+    text-align: center;
+}
+.firstWrapper{
+    margin-block: 184px 340px;
+    align-items: center;
+}
+.heroWrapper h1 ,h4{
+    color: #FFFFFF;
+    text-align: center;
+}
+.firstH1{
+    font-size: 54px;
+    font-family: 700;
+    margin-block: 40px 40px;
+    width: 542;
+    height: 160;
+    opacity: 1;
+}
+.firstWrapper button{
+    margin-block: 40px 120px;
+    align-items: center;
+    text-align: center;
+}
+.secondH4{
+    width: 536;
+    height: 60;
+    opacity: 1;
+    font-family: Montserrat;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.2px;
+    text-align: center;
+}
